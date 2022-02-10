@@ -29,13 +29,15 @@ In this project we prefer the Random Forest (also without tuning the parameters)
 
 These data, together, give us a good overview of the goodness of this model
 
-**How to improve**: by adding more data (medical or about individual’s life) or adding another ML model, like XGBoost
+**How to improve**: by adding more data (medical or about individual’s life) or adding another ML model, like XGBoost and/or weighted-KNN
 
 **Applications**: in any medical area where you want to prevent an heart disease/attack
 
+**Dataset**: https://www.kaggle.com/fedesoriano/heart-failure-prediction
+
 ---
 
-NB: see the .ipynb file for full report with some explanations
+NB: see the .ipynb file for full report with some explanations and .pdf file for a simple presentation of the work
 
 Work done by:
 * Christian Stingone (https://github.com/ChriStingo)
